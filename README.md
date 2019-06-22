@@ -16,3 +16,6 @@ This Project covers how to use Spring Boot with Spring Kafka to Publish JSON/Str
 ## Publish message via WebService
 - `http://localhost:8081/kafka/publish/Sam`
 - `http://localhost:8081/kafka/publish/Peter`
+
+## reference 
+https://www.youtube.com/watch?v=NjHYWEV_E_o
